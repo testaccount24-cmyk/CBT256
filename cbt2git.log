@@ -1,0 +1,6 @@
+2025-04-04 06:49:33.002847 - Received CBT.V508.FILE256.PDS from FILE256.XMI 
+2025-04-04 06:49:33.003460 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE256.PDS, moved to PDS/$$$#DATE
+2025-04-04 06:49:33.003594 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE256.PDS, moved to PDS/$$$DOC
+2025-04-04 06:49:33.003729 - Found @FILE256.txt (text/plain) in CBT.V508.FILE256.PDS, moved to PDS/@FILE256
+2025-04-04 06:49:33.003892 - Found CHSCMDS.bin (application/octet-stream) in CBT.V508.FILE256.PDS, moved to PDS/CHSCMDS
+2025-04-04 06:49:33.004020 - Found ISPCMDS.bin (application/octet-stream) in CBT.V508.FILE256.PDS, moved to PDS/ISPCMDS
